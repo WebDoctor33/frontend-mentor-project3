@@ -1,0 +1,33 @@
+body {
+    background-color: yellow;
+}
+
+.box {
+    width: 545px;
+    height: 680px;
+    margin: 0 auto;
+    margin-top: 100px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    font-size: 30px;
+}
+
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+}
+
+h3 {
+    font-size: 35px;
+    font-weight: 400px;
+}
+
+p {
+    font-size: 30px;
+}
+
